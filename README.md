@@ -2,7 +2,6 @@
 # The Ultimate Guide to Tokyo
 =======
 # TOKYO TRAVEL TIPS 2024
->>>>>>> f53db86 (TOKYO TRAVEL TIPS 2024)
 
 ## 🍢 Local Snacks
 
