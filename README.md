@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# Travel Guide
+# The Ultimate Guide to Tokyo
 
 ## 🍢 Local Snacks
 
