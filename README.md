@@ -32,4 +32,4 @@ The best time to visit depends on what you’re looking for:
 
 Overall, the most recommended time is during the dry and cooler months for the best experience.
 
->>>>>>> add-weather-tips
+
