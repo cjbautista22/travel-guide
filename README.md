@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 # The Ultimate Guide to Tokyo
 =======
 # TOKYO TRAVEL TIPS 2024
